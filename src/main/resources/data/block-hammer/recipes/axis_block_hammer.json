@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "block-hammer:shape_block_hammer"
+    }
+  ],
+  "result": {
+    "item": "block-hammer:axis_block_hammer",
+    "count": 1
+  }
+}

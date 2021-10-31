@@ -1,0 +1,15 @@
+{
+  "itemGroup.block-hammer.block-hammer-item-group": "Block hammer items",
+  "item.block-hammer.sub_block_hammer": "Sub block hammer",
+  "item.block-hammer.shape_block_hammer": "Shape block hammer",
+  "item.block-hammer.axis_block_hammer": "Axis block hammer",
+  "item.block-hammer.orientation_block_hammer": "Orientation block hammer",
+  "item.block-hammer.sub_block_hammer.change_to_shape_block_hammer": "New Mode: Change shape",
+  "item.block-hammer.shape_block_hammer.change_to_axis_block_hammer": "New Mode: Change axis",
+  "item.block-hammer.axis_block_hammer.change_to_orientation_block_hammer": "New Mode: Change orientation",
+  "item.block-hammer.orientation_block_hammer.change_to_sub_block_hammer": "New Mode: Change block",
+  "item.block-hammer.sub_block_hammer.no_sub_blocks": "This block has no sub-blocks",
+  "item.block-hammer.shape_block_hammer.no_shape": "This block has no alternative shape",
+  "item.block-hammer.axis_block_hammer.no_axis": "This block has no alternative axis",
+  "item.block-hammer.orientation_block_hammer.no_orientation": "This block has no alternative orientation"
+}
