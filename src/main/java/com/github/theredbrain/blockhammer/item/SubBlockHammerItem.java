@@ -51,7 +51,7 @@ public class SubBlockHammerItem extends Item {
 
     static {
         // TODO get blocks from json
-        BLOCKS_AND_SUB_BLOCKS = (new Builder())
+        BLOCKS_AND_SUB_BLOCKS = new Builder()
             // stone
             .put(Blocks.STONE, Blocks.STONE_STAIRS).put(Blocks.STONE_STAIRS, Blocks.STONE_SLAB).put(Blocks.STONE_SLAB, Blocks.STONE)
             .put(Blocks.SMOOTH_STONE, Blocks.SMOOTH_STONE_SLAB).put(Blocks.SMOOTH_STONE_SLAB, Blocks.SMOOTH_STONE)

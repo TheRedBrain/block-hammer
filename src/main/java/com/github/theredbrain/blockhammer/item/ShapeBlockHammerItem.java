@@ -22,7 +22,7 @@ public class ShapeBlockHammerItem extends Item{
         super(settings);
     }
 
-    @Override
+    //@Override
     public ActionResult useOnBlock(ItemUsageContext context) {
         World world = context.getWorld();
         BlockPos blockPos = context.getBlockPos();

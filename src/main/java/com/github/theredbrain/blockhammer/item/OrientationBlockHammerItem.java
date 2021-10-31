@@ -2,7 +2,7 @@ package com.github.theredbrain.blockhammer.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.block.*;
-import net.minecraft.block.entity.PistonBlockEntity;
+//import net.minecraft.block.entity.PistonBlockEntity;
 import net.minecraft.block.enums.WallMountLocation;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
@@ -15,7 +15,7 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Direction;
 import net.minecraft.world.World;
 
-import java.util.List;
+//import java.util.List;
 
 public class OrientationBlockHammerItem extends Item{
     public OrientationBlockHammerItem(FabricItemSettings settings) {

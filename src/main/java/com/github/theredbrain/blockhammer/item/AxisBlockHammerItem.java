@@ -2,8 +2,8 @@ package com.github.theredbrain.blockhammer.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.block.*;
-import net.minecraft.block.enums.BlockHalf;
-import net.minecraft.block.enums.StairShape;
+//import net.minecraft.block.enums.BlockHalf;
+//import net.minecraft.block.enums.StairShape;
 import net.minecraft.block.enums.WallMountLocation;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
